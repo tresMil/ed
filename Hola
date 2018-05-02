@@ -1,0 +1,212 @@
+#EXTM3U
+
+
+#PLAYLISTV: pltv-logo="" pltv-name="IPTV Gustavo Santana"
+#EXTINF:-1 tvg-logo="https://goo.gl/zEAoER" group-title="INFORMAÇÃO", Atualizado 02/05/2018 Whats : 62 991219735
+
+
+
+#EXTINF:-1 tvg-logo="", BBB
+http://switch01.servep2p.com/017/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://tudotv.tv/fotos/689c948af029ce44f8405e667883d389.jpg",Band Sports
+http://switch03.serveexchange.com/074/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://s2.glbimg.com/OlF3fWNQd7yyW7Cfsak6AF6vINc=/s3.glbimg.com/v1/AUTH_180b9dd048d9434295d27c4b6dadc248/media_kit/dd/45/6f0becb8b016872551edaad347cc.png",Combate
+http://switch01.servep2p.com/016/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png",Discovery Turbo
+http://switch01.servep2p.com/013/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Maxx
+http://switch02.golffan.us/046/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Maxx2
+http://switch01.servep2p.com/025/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="",Espn
+http://switch04.loginto.me/c016/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Espn Brasil
+http://switch04.loginto.me/c01/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Espn+
+http://switch03.serveexchange.com/070/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Esporte Interativo
+http://switch04.loginto.me/c04/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Fox Sports
+http://switch02.golffan.us/036/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Fox Sports2
+http://switch01.servep2p.com/028/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", PFC1
+http://switch04.loginto.me/097/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", PFC2
+http://switch04.loginto.me/099/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", PFC3
+http://switch04.loginto.me/100/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", PFC5
+http://switch02.golffan.us/044/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", PFC6
+http://switch02.golffan.us/042/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", PFC7
+http://switch02.golffan.us/043/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", PFC8
+http://switch02.golffan.us/041/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SporTV
+http://switch04.loginto.me/c08/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SporTV2
+http://switch03.serveexchange.com/071/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SporTV3
+http://switch04.loginto.me/c06/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", BabyTV
+http://switch03.serveexchange.com/066/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Boomerang
+http://switch03.serveexchange.com/091/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", CartoonNetwork
+http://switch01.servep2p.com/027/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", DiscoveryKids
+http://switch02.golffan.us/049/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Disney
+http://switch03.serveexchange.com/075/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", DisneyJunior
+http://switch03.serveexchange.com/087/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", DisneyXD
+http://switch03.serveexchange.com/086/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Gloob
+http://switch03.serveexchange.com/089/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Nick HD
+http://switch03.serveexchange.com/077/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", NickJR
+http://switch02.golffan.us/052/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Toon Cast
+http://switch03.serveexchange.com/085/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", ZooMoo
+http://switch01.servep2p.com/006/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", BIS
+http://switch02.golffan.us/061/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", chefTV
+http://switch02.golffan.us/062/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Comedy Central
+http://switch01.servep2p.com/030/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", CURTA!
+http://switch01.servep2p.com/014/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", h&h
+http://switch04.loginto.me/c013/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Fox Life
+http://switch03.serveexchange.com/083/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", +GloboSat
+http://switch03.serveexchange.com/073/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", GNT
+http://switch03.serveexchange.com/084/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Life Time
+http://switch03.serveexchange.com/090/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", MTV
+http://switch03.serveexchange.com/072/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", MultiShow
+http://switch01.servep2p.com/012/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TLC
+http://switch02.golffan.us/034/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Tru TV
+http://switch04.loginto.me/103/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", VH1
+http://switch02.golffan.us/040/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", VIVA
+http://switch03.serveexchange.com/079/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Band
+http://switch03.serveexchange.com/081/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", RPC TV
+http://switch03.serveexchange.com/095/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Globo SP
+http://switch01.servep2p.com//020/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", REDE TV
+http://switch02.golffan.us/063/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SBT
+http://switch01.servep2p.com/031/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", A&E
+http://switch04.loginto.me/106/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", AMC
+http://switch01.servep2p.com/007/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", AXN
+http://switch01.servep2p.com/015/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", HBO
+http://switch02.golffan.us/053/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", HBO Family 
+http://switch03.serveexchange.com/088/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", HBO Plus
+http://switch02.golffan.us/037/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", HBO Signature
+http://switch01.servep2p.com/001/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", HBO 2
+http://switch02.golffan.us/047/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", MAX
+http://switch02.golffan.us/051/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", MAX Prime
+http://switch03.serveexchange.com/092/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", MAX UP
+http://switch02.golffan.us/045/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", MEGAPIX
+http://switch02.golffan.us/033/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Paramount Channel
+http://switch01.servep2p.com/004/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", CANAL SONY
+http://switch01.servep2p.com/003/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SPACE HD
+http://switch01.servep2p.com/029/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Studio Universal
+http://switch03.serveexchange.com/096/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SyFy
+http://switch03.serveexchange.com/093/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TBS
+http://switch02.golffan.us/038/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TCM
+http://switch02.golffan.us/039/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TeleCine Action
+http://switch03.serveexchange.com/068/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TeleCine Cult
+http://switch02.golffan.us/055/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TeleCine Fun
+http://switch02.golffan.us/060/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TeleCine Pipoca
+http://switch03.serveexchange.com/065/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TeleCine Premium
+http://switch03.serveexchange.com/069/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TELECINE TOUCH
+http://switch04.loginto.me/102/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TNT
+http://switch01.servep2p.com/023/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", TNT Series
+http://switch01.servep2p.com/019/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Universal Channel
+http://switch03.serveexchange.com/067/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Warner
+http://switch03.serveexchange.com/080/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Animal Planet
+http://switch04.loginto.me/105/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", BAND NEWS
+http://switch01.servep2p.com/032/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Discovery Channel
+http://switch02.golffan.us/050/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Discovery World
+http://switch03.serveexchange.com/094/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Globo News
+http://switch03.serveexchange.com/076/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", H2
+http://switch02.golffan.us/054/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", History
+http://switch01.servep2p.com/005/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", ID
+http://switch02.golffan.us/056/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", NatGeo Wild
+http://switch03.serveexchange.com/082/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", National Geographic
+http://switch04.loginto.me/101/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Playboy TV
+http://switch02.golffan.us/059/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", Sex Zone
+http://switch01.servep2p.com/008/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SEX PRIVE
+http://switch02.golffan.us/058/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SeXtreme
+http://switch01.servep2p.com/011/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SEXY HOT
+http://switch02.golffan.us/057/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", SUNDANCE TV
+http://switch01.servep2p.com/009/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", FOX ACTION
+http://switch04.loginto.me/109/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", FOX1
+http://switch04.loginto.me/107/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="", GLOBO RJ
+http://switch01.servep2p.com/021/myStream/playlist.m3u8
